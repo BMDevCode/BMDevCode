@@ -1,16 +1,31 @@
-## Hi there 👋
+ 👋 Olá, eu sou o BMDevCode
 
-<!--
-**BMDevCode/BMDevCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor front-end apaixonado por criar interfaces modernas, limpas e responsivas.  
+Trabalho com **HTML**, **CSS**, **JavaScript** e **TypeScript** para construir experiências de usuário sólidas e eficientes.
 
-Here are some ideas to get you started:
+🛠️ Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: HTML5 · CSS3 (Flexbox, Grid) · JavaScript · TypeScript  
+- **Ferramentas**: Git · VSCode  
+- **Design**: Responsividade · Layout limpo e usável  
+
+
+
+
+## 📫 Contato
+
+- **Instagram**: (https://www.instagram.com/bmcodestudio/?next=%2Faccounts%2Fonetap%2F) 
+- **Portfólio**: [Seu site ou portfólio](https://seu-site.com)  
+- **E-mail**: seuemail@exemplo.com  
+
+---
+
+## 🎯 Atualmente
+
+- Estudando novas **bibliotecas/frameworks** de front-end  
+- Trabalhando em um **projeto pessoal** para aprimorar meus conhecimentos em TypeScript  
+- Aberto a oportunidades de **colaboração ou trabalho freelance**
+
+---
+
+Obrigado por visitar meu perfil! Vamos construir algo juntos 💻
