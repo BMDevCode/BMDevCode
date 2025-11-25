@@ -15,9 +15,6 @@ Trabalho com **HTML**, **CSS**, **JavaScript** e **TypeScript** para construir e
 ## 📫 Contato
 
 - **Instagram**: (https://www.instagram.com/bmcodestudio/?next=%2Faccounts%2Fonetap%2F) 
-- **Portfólio**: [Seu site ou portfólio](https://seu-site.com)  
-- **E-mail**: seuemail@exemplo.com  
-
 ---
 
 ## 🎯 Atualmente
