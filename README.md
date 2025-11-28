@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-bmdev.svg.svg" width="100%" alt="Banner BM Dev" />
+  <img src="./banner-bmdev.svg" width="100%" alt="Banner BM Dev" />
 </p>
 <br/>
 
