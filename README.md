@@ -35,6 +35,8 @@ Linguagens
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMDevCode&layout=compact&theme=tokyonight" height="160px"/>
 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=BMDevCode&theme=algolia&no-frame=true&row=1" />
+
+
 📫 Como falar comigo
 
 👉 Instagram: https://www.instagram.com/bmcodestudio/
