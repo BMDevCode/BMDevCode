@@ -1,0 +1,53 @@
+<svg width="100%" height="200px" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Neon glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="coloredBlur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <!-- Moving lines -->
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00eaff" stop-opacity="0"></stop>
+      <stop offset="50%" stop-color="#00eaff" stop-opacity="1"></stop>
+      <stop offset="100%" stop-color="#00eaff" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="200" fill="#050505"></rect>
+
+  <!-- Animated Lines -->
+  <rect y="40" width="1200" height="3" fill="url(#grad)">
+    <animate attributeName="x" from="-1200" to="1200" dur="4s" repeatCount="indefinite"></animate>
+  </rect>
+
+  <rect y="160" width="1200" height="3" fill="url(#grad)">
+    <animate attributeName="x" from="1200" to="-1200" dur="5s" repeatCount="indefinite"></animate>
+  </rect>
+
+  <!-- Text -->
+  <text x="50%" y="55%" text-anchor="middle" font-size="60" font-family="Segoe UI, Arial" fill="#00eaff" filter="url(#glow)">
+    BM Dev
+    <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze"></animate>
+  </text>
+
+  <!-- Typing effect underline -->
+  <rect x="50%" y="58%" width="0" height="3" fill="#00eaff">
+    <animate attributeName="width" from="0" to="260" dur="2s" begin="1s" fill="freeze"></animate>
+  </rect>
+
+  <!-- Floating particles -->
+  <circle cx="300" cy="100" r="3" fill="#00eaff">
+    <animate attributeName="cy" values="100;90;110;100" dur="4s" repeatCount="indefinite"></animate>
+  </circle>
+
+  <circle cx="900" cy="110" r="4" fill="#00eaff">
+    <animate attributeName="cy" values="110;120;100;110" dur="3s" repeatCount="indefinite"></animate>
+  </circle>
+
+</svg>
