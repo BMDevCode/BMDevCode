@@ -1,57 +1,64 @@
-👋 Olá! Eu sou o BMDevCode
+<!-- Banner -->
+<p align="center">
+  <img src="./banner-bmdev.svg" width="100%" alt="Banner BM Dev" />
+</p>
 
-🎨 Desenvolvedor Front-end apaixonado por criar interfaces modernas, responsivas e com foco em experiência do usuário.
-🚀 Evoluindo todos os dias com HTML, CSS, JavaScript e TypeScript.
+<br/>
 
-🚀 Tecnologias que uso
-Linguagens
+<h1 align="center">👋 Olá! Eu sou o BMDevCode</h1>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="center">
+  Desenvolvedor Front-end apaixonado por criar interfaces modernas, limpas e responsivas.
+  <br/>
+  Trabalho com <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>TypeScript</strong>.
+</p>
+
+---
+
+## 🚀 Habilidades
+
+### 🖥️ **Frontend**
+- HTML5  
+- CSS3 (Flexbox, Grid, Responsividade)  
+- JavaScript  
+
+### 🔧 **Ferramentas**
+- Git / GitHub  
+- Visual Studio Code  
+
+### 🎨 **Design**
+- Layout limpo  
+- Responsividade  
+- UI minimalista  
+
+---
+
+## 📂 Tecnologias que uso
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📫 Contato
+
+- **Instagram:** https://www.instagram.com/bmcodestudio  
+- **GitHub:** https://github.com/bmdevcode
+
+---
+
+## 🎯 Atualmente
+
+- Estudando novas **bibliotecas/frameworks** front-end  
+- Criando um **projeto pessoal** com TypeScript  
+- Aberto a oportunidades de **colaboração** ou **freelance**
+
+---
+
+## 💬 Agradecimento
+
+Obrigado por visitar meu perfil!  
+Vamos construir algo incrível juntos 🚀💻
 
 
-
-
-
-
-
-
-## 🛠️ Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-
-📊 GitHub Stats
-
-
-
-🔥 Estatísticas gerais
-<img src="https://github-readme-stats.vercel.app/api?username=BMDevCode&show_icons=true&theme=tokyonight" height="160px"/>
-📈 Linguagens mais usadas
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMDevCode&layout=compact&theme=tokyonight" height="160px"/>
-🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=BMDevCode&theme=algolia&no-frame=true&row=1" />
-
-
-📫 Como falar comigo
-
-👉 Instagram: https://www.instagram.com/bmcodestudio/
-
-👉 (Se quiser, adiciono e-mail e LinkedIn também)
-
-🎯 Atualmente
-
-Estudando novas bibliotecas e frameworks de front-end
-
-Criando um projeto pessoal em TypeScript
-
-Aberto a colaborações e networking
-
-✨ Obrigado pela visita!
-
-Se quiser trocar uma ideia, colaborar ou criar algo incrível, só chamar!
-Vamos construir algo juntos 🚀💻
